@@ -2,7 +2,7 @@
 
 <img  alt="portfolio" width="100%" src="https://miro.medium.com/v2/resize:fit:1400/0*s7-847-cMWNrfnyH.gif">
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is jasmeet singh
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jasmeet Singh
 =========================================================================================================================================
 
 🎓Student, Web Developer & App Developer
@@ -49,4 +49,4 @@ I'm always hungry to learn and grow, because in this field, there's always somet
 
  ⚡Top Language used⚡
  -------------------
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav-kesarwani&hide=html,css,scss,cmake&theme=radical)        [![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vaibhav-kesarwani&show_icons=true&theme=radical)](https://github.com/chensokheng/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JasmeetSingh26&hide=html,css,scss,cmake&theme=radical)        [![Jasmeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=JasmeetSingh26&show_icons=true&theme=radical)](https://github.com/chensokheng/github-readme-stats)
