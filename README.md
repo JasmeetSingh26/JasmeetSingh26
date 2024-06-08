@@ -15,7 +15,7 @@ I'm always hungry to learn and grow, because in this field, there's always somet
 
 * 🌍  Open Source Contributor from ****India**** 🇮🇳
 * 🖥️  See my portfolio at [My Portfolio]()
-* ✉️  You can contact me at [vaibhavkesarwani100@gmail.com](mailto:singhjasmeet200526@gmail.com)
+* ✉️  You can contact me at [singhjasmeet200526@gmail.com@gmail.com](mailto:singhjasmeet200526@gmail.com)
 * 🧠  I'm learning MERN, Flutter, Django, JS, React Native
 * 🤝  I'm open to collaborating on Web devlopment & App development
 * ⚡  There's no place like 127.0.0.1
@@ -23,15 +23,13 @@ I'm always hungry to learn and grow, because in this field, there's always somet
 🤝Let's connect!
 ----------------------------------
 <p align="start">
-<a href="https://www.linkedin.com/in/vaibhav-kesarwani-9b5b35252/" target="_blank">
+<a href="https://www.linkedin.com/in/jasmeet-singh-a57539245/" target="_blank">
     <img src="https://img.shields.io/badge/Linkdin-1877F2?style=for-the-badge&logo=linkdin&logoColor=white" />
 </a>
-<a href="https://twitter.com/Vaibhav_k__" target="_blank">
+<a href="https://twitter.com/Jasmeet_off26" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
-<a href="https://vaibhav-kesarwani.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-</a>
+
  </p>
  
 🛠 Tools & Technology
