@@ -1,3 +1,6 @@
+![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JasmeetSingh26&label=Profile%20views&color=0e75b6&style=flat" alt="Jasmeet Singh" /> </p>
 
 <img  alt="portfolio" width="100%" src="https://miro.medium.com/v2/resize:fit:1400/0*s7-847-cMWNrfnyH.gif">
@@ -8,7 +11,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 🎓Student, Web Developer & App Developer
 --------------------------------------
 
-👋 Hey there! 🎉 So, I'm a second-year CSE student, and I'm super passionate about coding! I love diving into languages like C, C++, Python, Java, and JavaScript.
+👋 Hey there! 🎉 So, I'm a 3rd-year CSE student, and I'm super passionate about coding! I love diving into languages like C, C++, Python, Java, and JavaScript.
 
 
 I'm always hungry to learn and grow, because in this field, there's always something new around the corner. So, let's keep pushing those boundaries and see where our skills take us! 🔥
