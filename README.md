@@ -8,7 +8,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jasmeet Singh
 =========================================================================================================================================
 
-🎓Student, Web Developer & App Developer
+🎓Student, Developer
 --------------------------------------
 
 👋 Hey there! 🎉 So, I'm a 3rd-year CSE student, and I'm super passionate about coding! I love diving into languages like C, C++, Python, Java, and JavaScript.
