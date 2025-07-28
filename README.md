@@ -11,7 +11,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 🎓Student, Developer
 --------------------------------------
 
-👋 Hey there! 🎉 So, I'm a 3rd-year CSE student, and I'm super passionate about coding! I love diving into languages like C, C++, Python, Java, and JavaScript.
+👋 Hey there! 🎉 So, I'm a 4th-year CSE student, and I'm super passionate about coding! I love diving into languages like C, C++, Python, Java, and JavaScript.
 
 
 I'm always hungry to learn and grow, because in this field, there's always something new around the corner. So, let's keep pushing those boundaries and see where our skills take us! 🔥
