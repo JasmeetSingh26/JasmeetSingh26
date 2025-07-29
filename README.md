@@ -11,8 +11,8 @@
 <br><br>
 - 👨‍💻 I'm a 4th-year CSE student
 - You can contact me at [singhjasmeet200526@gmail.com@gmail.com](mailto:singhjasmeet200526@gmail.com)
-- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`
 - ✍🏻 I love using Software as a solution for every Problem
+- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`
 - 🤓 There's no place like 127.0.0.1
 <br>
 
