@@ -50,10 +50,3 @@
 
 </br></br>
 	
-## 🐍 A Snake Eating My Contributions Graph
-
-<p align="center">
-	<picture>
-		  ![Snake animation](https://github.com/JasmeetSingh26/JasmeetSingh26/blob/output/github-contribution-grid-snake.svg)
-	</picture>
-</p>
